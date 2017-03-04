@@ -1,5 +1,6 @@
 
 ## Advanced Lane Finding Project
+## This project was created for the Udacity CarND program
 
 The goals / steps of this project are the following:
 
